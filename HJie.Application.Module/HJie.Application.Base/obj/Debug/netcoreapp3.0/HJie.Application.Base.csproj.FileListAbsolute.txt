@@ -1,0 +1,17 @@
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\obj\Debug\netcoreapp3.0\HJie.Application.Base.csprojAssemblyReference.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\obj\Debug\netcoreapp3.0\HJie.Application.Base.AssemblyInfoInputs.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\obj\Debug\netcoreapp3.0\HJie.Application.Base.AssemblyInfo.cs
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.Application.Base.deps.json
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.Application.Base.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.Application.Base.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.DataBase.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.DataBase.Oracle.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.DataBase.Repository.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.Util.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.DataBase.Repository.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.DataBase.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.Util.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\bin\Debug\netcoreapp3.0\HJie.DataBase.Oracle.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\obj\Debug\netcoreapp3.0\HJie.Application.Base.csproj.CopyComplete
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\obj\Debug\netcoreapp3.0\HJie.Application.Base.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Application.Module\HJie.Application.Base\obj\Debug\netcoreapp3.0\HJie.Application.Base.pdb

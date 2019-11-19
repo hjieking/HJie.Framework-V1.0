@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Framework 基础模块", "01 Framework 基础模块", "{E11A03C6-0D7B-417E-8D3D-4EDA252561B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 DataAccess 数据库模块", "05 DataAccess 数据库模块", "{CA992669-DDAD-4B62-8727-64330412930F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Application 应用界面", "04 Application 应用界面", "{88433472-FF6A-4F8D-9794-831745881928}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Application.Web", "HJie.Application.Web\HJie.Application.Web.csproj", "{1AF81BCB-30F2-458D-9B23-D2E56D15F101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 ApplicationModule 应用模块", "02 ApplicationModule 应用模块", "{FFAB156D-2813-444F-BD0D-19B90587127A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Util 实用类模块", "01 Util 实用类模块", "{16B77E1B-8E4C-4D64-B109-DADDC26A7444}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Util", "HJie.Framework.Module\HJie.Util\HJie.Util\HJie.Util.csproj", "{5F695274-9353-44F2-86BE-FCF70057E928}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.DataBase", "HJie.Framework.Module\HJie.Db\HJie.DataBase\HJie.DataBase.csproj", "{4B7812D4-3AC6-46F9-8A94-DEA6DD59337D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.DataBase.Oracle", "HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\HJie.DataBase.Oracle.csproj", "{6A6A31BE-2A49-4AF9-BC45-FDA3518893A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.DataBase.Repository", "HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\HJie.DataBase.Repository.csproj", "{049530A3-1283-4536-B710-95E5C21400EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 框架本身模块", "02 框架本身模块", "{F07A399F-D842-43D8-A37C-8DAF870CB0D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJie.Application.Base", "HJie.Application.Module\HJie.Application.Base\HJie.Application.Base.csproj", "{0FF640F1-9BFF-4062-8EC8-2D259B098D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF81BCB-30F2-458D-9B23-D2E56D15F101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF81BCB-30F2-458D-9B23-D2E56D15F101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF81BCB-30F2-458D-9B23-D2E56D15F101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF81BCB-30F2-458D-9B23-D2E56D15F101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F695274-9353-44F2-86BE-FCF70057E928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F695274-9353-44F2-86BE-FCF70057E928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F695274-9353-44F2-86BE-FCF70057E928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F695274-9353-44F2-86BE-FCF70057E928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7812D4-3AC6-46F9-8A94-DEA6DD59337D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7812D4-3AC6-46F9-8A94-DEA6DD59337D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7812D4-3AC6-46F9-8A94-DEA6DD59337D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7812D4-3AC6-46F9-8A94-DEA6DD59337D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6A31BE-2A49-4AF9-BC45-FDA3518893A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6A31BE-2A49-4AF9-BC45-FDA3518893A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6A31BE-2A49-4AF9-BC45-FDA3518893A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6A31BE-2A49-4AF9-BC45-FDA3518893A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049530A3-1283-4536-B710-95E5C21400EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049530A3-1283-4536-B710-95E5C21400EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049530A3-1283-4536-B710-95E5C21400EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049530A3-1283-4536-B710-95E5C21400EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF640F1-9BFF-4062-8EC8-2D259B098D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF640F1-9BFF-4062-8EC8-2D259B098D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF640F1-9BFF-4062-8EC8-2D259B098D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF640F1-9BFF-4062-8EC8-2D259B098D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA992669-DDAD-4B62-8727-64330412930F} = {E11A03C6-0D7B-417E-8D3D-4EDA252561B9}
+		{1AF81BCB-30F2-458D-9B23-D2E56D15F101} = {88433472-FF6A-4F8D-9794-831745881928}
+		{16B77E1B-8E4C-4D64-B109-DADDC26A7444} = {E11A03C6-0D7B-417E-8D3D-4EDA252561B9}
+		{5F695274-9353-44F2-86BE-FCF70057E928} = {16B77E1B-8E4C-4D64-B109-DADDC26A7444}
+		{4B7812D4-3AC6-46F9-8A94-DEA6DD59337D} = {CA992669-DDAD-4B62-8727-64330412930F}
+		{6A6A31BE-2A49-4AF9-BC45-FDA3518893A8} = {CA992669-DDAD-4B62-8727-64330412930F}
+		{049530A3-1283-4536-B710-95E5C21400EC} = {CA992669-DDAD-4B62-8727-64330412930F}
+		{F07A399F-D842-43D8-A37C-8DAF870CB0D6} = {FFAB156D-2813-444F-BD0D-19B90587127A}
+		{0FF640F1-9BFF-4062-8EC8-2D259B098D56} = {F07A399F-D842-43D8-A37C-8DAF870CB0D6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E9C86B-D6AD-40AD-B5E4-CBBA97A063DC}
+	EndGlobalSection
+EndGlobal

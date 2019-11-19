@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\HJie.DataBase.Repository.csproj" />
+    <ProjectReference Include="..\..\HJie.Framework.Module\HJie.Db\HJie.DataBase\HJie.DataBase.csproj" />
+    <ProjectReference Include="..\..\HJie.Framework.Module\HJie.Util\HJie.Util\HJie.Util.csproj" />
+  </ItemGroup>
+
+</Project>

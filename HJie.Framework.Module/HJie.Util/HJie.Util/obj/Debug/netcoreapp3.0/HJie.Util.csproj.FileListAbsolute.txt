@@ -1,0 +1,8 @@
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\bin\Debug\netcoreapp3.0\HJie.Util.deps.json
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\bin\Debug\netcoreapp3.0\HJie.Util.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\bin\Debug\netcoreapp3.0\HJie.Util.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\obj\Debug\netcoreapp3.0\HJie.Util.csprojAssemblyReference.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\obj\Debug\netcoreapp3.0\HJie.Util.AssemblyInfoInputs.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\obj\Debug\netcoreapp3.0\HJie.Util.AssemblyInfo.cs
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\obj\Debug\netcoreapp3.0\HJie.Util.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Util\HJie.Util\obj\Debug\netcoreapp3.0\HJie.Util.pdb

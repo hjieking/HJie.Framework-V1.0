@@ -1,0 +1,15 @@
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.DataBase.Repository.deps.json
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.DataBase.Repository.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.DataBase.Repository.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\obj\Debug\netcoreapp3.0\HJie.DataBase.Repository.AssemblyInfoInputs.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\obj\Debug\netcoreapp3.0\HJie.DataBase.Repository.AssemblyInfo.cs
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\obj\Debug\netcoreapp3.0\HJie.DataBase.Repository.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\obj\Debug\netcoreapp3.0\HJie.DataBase.Repository.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.DataBase.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.Util.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.Util.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.DataBase.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\obj\Debug\netcoreapp3.0\HJie.DataBase.Repository.csprojAssemblyReference.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\obj\Debug\netcoreapp3.0\HJie.DataBase.Repository.csproj.CopyComplete
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.DataBase.Oracle.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Repository\bin\Debug\netcoreapp3.0\HJie.DataBase.Oracle.pdb

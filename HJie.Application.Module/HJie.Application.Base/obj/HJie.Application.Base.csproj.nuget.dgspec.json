@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Application.Module\\HJie.Application.Base\\HJie.Application.Base.csproj": {}
+  },
+  "projects": {
+    "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Application.Module\\HJie.Application.Base\\HJie.Application.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Application.Module\\HJie.Application.Base\\HJie.Application.Base.csproj",
+        "projectName": "HJie.Application.Base",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Application.Module\\HJie.Application.Base\\HJie.Application.Base.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Application.Module\\HJie.Application.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Repository\\HJie.DataBase.Repository.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Repository\\HJie.DataBase.Repository.csproj"
+              },
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj"
+              },
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Oracle\\HJie.DataBase.Oracle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Oracle\\HJie.DataBase.Oracle.csproj",
+        "projectName": "HJie.DataBase.Oracle",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Oracle\\HJie.DataBase.Oracle.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Oracle\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj"
+              },
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.50, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Repository\\HJie.DataBase.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Repository\\HJie.DataBase.Repository.csproj",
+        "projectName": "HJie.DataBase.Repository",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Repository\\HJie.DataBase.Repository.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Oracle\\HJie.DataBase.Oracle.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase.Oracle\\HJie.DataBase.Oracle.csproj"
+              },
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj"
+              },
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj",
+        "projectName": "HJie.DataBase",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\HJie.DataBase.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Db\\HJie.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj",
+        "projectName": "HJie.Util",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\HJie.Util.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework V1.0\\HJie.Framework.Module\\HJie.Util\\HJie.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\bin\Debug\netcoreapp3.0\HJie.DataBase.Oracle.deps.json
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\bin\Debug\netcoreapp3.0\HJie.DataBase.Oracle.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\bin\Debug\netcoreapp3.0\HJie.DataBase.Oracle.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\obj\Debug\netcoreapp3.0\HJie.DataBase.Oracle.AssemblyInfoInputs.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\obj\Debug\netcoreapp3.0\HJie.DataBase.Oracle.AssemblyInfo.cs
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\obj\Debug\netcoreapp3.0\HJie.DataBase.Oracle.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\obj\Debug\netcoreapp3.0\HJie.DataBase.Oracle.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\bin\Debug\netcoreapp3.0\HJie.DataBase.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\bin\Debug\netcoreapp3.0\HJie.Util.dll
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\bin\Debug\netcoreapp3.0\HJie.Util.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\bin\Debug\netcoreapp3.0\HJie.DataBase.pdb
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\obj\Debug\netcoreapp3.0\HJie.DataBase.Oracle.csprojAssemblyReference.cache
+D:\NetCoreStudty\HJie.Framework V1.0\HJie.Framework.Module\HJie.Db\HJie.DataBase.Oracle\obj\Debug\netcoreapp3.0\HJie.DataBase.Oracle.csproj.CopyComplete
